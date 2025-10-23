@@ -1,5 +1,6 @@
 [workspace]
 members = [ "staple-cli","staple-core" 
+,"staple-workspace-hack" 
 ]
 resolver = "2"
 

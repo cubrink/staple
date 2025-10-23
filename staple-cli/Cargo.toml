@@ -7,3 +7,4 @@ license.workspace = true
 repository.workspace = true
 
 [dependencies]
+staple-workspace-hack = { version = "0.1", path = "../staple-workspace-hack" }

@@ -5,7 +5,17 @@ version = 4
 [[package]]
 name = "staple-cli"
 version = "0.1.0"
+dependencies = [
+ "staple-workspace-hack",
+]
 
 [[package]]
 name = "staple-core"
+version = "0.1.0"
+dependencies = [
+ "staple-workspace-hack",
+]
+
+[[package]]
+name = "staple-workspace-hack"
 version = "0.1.0"
