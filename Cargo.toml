@@ -1,0 +1,11 @@
+[workspace]
+members = [ "staple-cli","staple-core" 
+]
+resolver = "2"
+
+[workspace.package]
+authors = ["Curtis Brinker <curtisbrnkr@gmail.com>"]
+edition = "2024"
+version = "0.1.0"
+license = "MIT"
+repository = "https://github.com/cubrink/staple"
